@@ -23,7 +23,7 @@ light_ring.show(); //show the color orange
 delay(1000); //wait one second
 
  light_ring.begin();
-light_ring.setPixelColor(0,  light_ring.Color(255, 2555, 0)); //color yellow
+light_ring.setPixelColor(0,  light_ring.Color(255, 255, 0)); //color yellow
 light_ring.show(); //show the color yellow
 delay(1000);  //wait one second
 
